@@ -1,2 +1,2 @@
-# test
-test repo for git commands demonstration
+# Basic Statistics--2
+statistic assignment
